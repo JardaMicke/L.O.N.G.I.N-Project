@@ -1,2 +1,2 @@
-# L.O.N.G.I.N-Project
+# L.O.N.G.I.N.
 Logical Orchestrated Networked Generative Inteligent Nexus
